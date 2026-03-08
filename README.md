@@ -74,7 +74,6 @@ Form validation for the login page.
 Login Page:
 Input fields: Username, Password.
 Submit button.
-![ready-profile-picture](https://github.com/user-attachments/assets/3d1ea42e-502f-44f2-8927-aabfa096d225)
 
 Dashboard Page:
 Table with columns: Name, Age, CGPA, Department, Year, Email.
