@@ -45,3 +45,37 @@ Student data (name, age, CGPA, department, year, email).
 Responsive Design:
 The front end will be built using HTML and CSS with a responsive design to ensure compatibility across devices (desktop, tablet, mobile).
 JavaScript will be used for dynamic interactions like filtering, sorting, and form validation.
+
+
+#Workflow:
+
+User Authentication:
+Users log in via the login page.
+Laravel validates credentials against the MySQL database.
+Upon successful login, users are redirected to the dashboard.
+
+Dashboard:
+The dashboard displays a table of student data fetched from the MySQL database.
+Users can filter the table by department, year, or CGPA range.
+Users can sort the table by name, age, or CGPA.
+
+Database:
+Two tables will be created:
+Users Table: Stores user credentials (id, username, password).
+Students Table: Stores student data (id, name, age, cgpa, department, year, email).
+
+Front-End Interactions:
+
+JavaScript will handle:
+Filtering: Update the table based on selected filters.
+Sorting: Rearrange table rows based on the selected column.
+Form validation for the login page.
+
+Login Page:
+Input fields: Username, Password.
+Submit button.
+
+Dashboard Page:
+Table with columns: Name, Age, CGPA, Department, Year, Email.
+Filter options: Dropdown for department, input for CGPA range.
+Sort buttons: For name, age, and CGPA.
