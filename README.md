@@ -14,7 +14,7 @@ Secure password hashing and validation will be implemented.
 Student Data Management:
 Each student record will include the following fields:
 
-Name: Full name of the student.
+Name: Full name of the student. \n
 Age: Age of the student. 
 CGPA: Cumulative Grade Point Average.
 Department: Department the student belongs to.
