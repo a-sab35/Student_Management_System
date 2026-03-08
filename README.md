@@ -47,7 +47,7 @@ The front end will be built using HTML and CSS with a responsive design to ensur
 JavaScript will be used for dynamic interactions like filtering, sorting, and form validation.
 
 
-#Workflow:
+# Workflow:
 
 User Authentication:
 Users log in via the login page.
