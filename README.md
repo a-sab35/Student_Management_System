@@ -6,28 +6,20 @@ The project will be built using HTML, CSS, JavaScript for the front end, Laravel
 
 
 # Key Features:
-# User Authentication:
+User Authentication:
 The system supports authentication for up to 5 users.
-
 Users must log in to access the student data.
-
 Secure password hashing and validation will be implemented.
 
 Student Data Management:
 Each student record will include the following fields:
 
 Name: Full name of the student.
-
 Age: Age of the student.
-
 CGPA: Cumulative Grade Point Average.
-
 Department: Department the student belongs to.
-
 Year: Current academic year (e.g., 1st, 2nd, 3rd, 4th).
-
 Email: Student's email address.
-
 Data will be stored in a MySQL database.
 
 Front-End Pages:
