@@ -8,6 +8,7 @@ The project will be built using HTML, CSS, JavaScript for the front end, Laravel
 # Key Features:
 # User Authentication:
 The system supports authentication for up to 5 users.
+
 Users must log in to access the student data.
 Secure password hashing and validation will be implemented.
 Student Data Management:
