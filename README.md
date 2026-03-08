@@ -14,7 +14,7 @@ Secure password hashing and validation will be implemented.
 Student Data Management:
 Each student record will include the following fields:
 
-Name: Full name of the student. \n
+Name: Full name of the student.
 Age: Age of the student. 
 CGPA: Cumulative Grade Point Average.
 Department: Department the student belongs to.
@@ -26,18 +26,22 @@ Front-End Pages:
 Login Page:
 A simple and responsive login form for user authentication.
 Validation for username and password fields.
+
 Dashboard Page:
 Displays student data in a table format.
 Supports filtering (e.g., by department, year, or CGPA range).
 Supports sorting (e.g., by name, age, or CGPA).
+
+
 Back-End Functionality:
 Laravel will handle:
 User authentication and session management.
 CRUD (Create, Read, Update, Delete) operations for student data.
-API endpoints for fetching, filtering, and sorting student data.
+
 MySQL will store:
 User credentials (username, hashed password).
 Student data (name, age, CGPA, department, year, email).
+
 Responsive Design:
 The front end will be built using HTML and CSS with a responsive design to ensure compatibility across devices (desktop, tablet, mobile).
 JavaScript will be used for dynamic interactions like filtering, sorting, and form validation.
