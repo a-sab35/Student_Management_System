@@ -15,7 +15,7 @@ Student Data Management:
 Each student record will include the following fields:
 
 Name: Full name of the student.
-Age: Age of the student.
+Age: Age of the student. 
 CGPA: Cumulative Grade Point Average.
 Department: Department the student belongs to.
 Year: Current academic year (e.g., 1st, 2nd, 3rd, 4th).
